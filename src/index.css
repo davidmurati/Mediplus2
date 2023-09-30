@@ -67,7 +67,7 @@ button:focus-visible {
     margin: 20px;
     min-width: 500px;
     min-zoom: 0.5;
-    
+    max-zoom: 0.8;
     
     
   }
