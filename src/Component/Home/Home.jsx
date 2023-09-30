@@ -28,10 +28,10 @@ const Home = () => {
         </div>
         
         <main>
+        
+        <div className="card3">
         <h1>Mediplus</h1>
         <h4>Bienvenido a la app de salud Mediplus, estamos para ayudarlo</h4>
-        <div className="card3">
-        
         </div>
 
         <section id="Nosotros">
